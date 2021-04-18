@@ -1,6 +1,6 @@
 ### Approved-transactions overview
 
-[Project 1: Approved transactions](https://github.com/Katleho10/Katleho_Portfolio)  
+[Project 1: Approved transactions](https://github.com/Katleho10/Approved-transactions/blob/main/Approved%20transactions%20.ipynb)  
 
 The aim of this study was to predict approved transactions for the following year. The work done is as follows:
 
