@@ -1,4 +1,4 @@
-# Approved-transactions overview
+### Approved-transactions overview
 
 [Project 1: Approved transactions](https://github.com/Katleho10/Katleho_Portfolio)  
 
